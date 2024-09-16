@@ -24,9 +24,6 @@ Projeto desenvolvido para facilitar a assistência mecânica para motoristas. O 
 6.Link do video demonstrativo.
 
 
-7.Licença
-
-
 1.Descrição do Projeto
 
 O SOS Mecânico é uma plataforma que visa conectar motoristas a serviços de assistência mecânica de maneira rápida e eficiente. O sistema inclui funcionalidades que vão desde chamadas de guincho até um chatbot para assistência.
@@ -86,6 +83,3 @@ Chatbot com IA: para suporte ao atendimento online.
 
 https://www.youtube.com/watch?v=8_scNzU_TsI
 
-7.Licença
-
-Este projeto está licenciado sob a MIT License.
