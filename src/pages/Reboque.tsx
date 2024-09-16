@@ -24,7 +24,7 @@ const Reboque: React.FC = () => {
                                 <p className="text-xl font-bold">Guincho {item}</p>
                                 <p>Distância: 3.2 km</p>
                                 <p>11-11-95060-6595</p>
-                                <p className="text-green-500">Previsão de chegada: 15 minutos</p>
+                                <p className="text-green-500">Previsão de chegada: 25-30 minutos</p>
                             </div>
                         </article>
                     ))}
