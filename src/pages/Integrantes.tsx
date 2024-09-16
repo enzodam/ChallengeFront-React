@@ -10,7 +10,7 @@ const Integrantes: React.FC = () => {
     const navigate = useNavigate();
 
     const handleVoltar = () => {
-        navigate('/home');
+        navigate('/');
     };
 
     return (
