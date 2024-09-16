@@ -38,9 +38,6 @@ O SOS Mecânico é uma plataforma que visa conectar motoristas a serviços de as
 
 -Cadastro de novos mecânicos.
 
-Integração com Google Maps para localização de serviços.
-Sistema responsivo para uso em dispositivos móveis.
-
 3.Instalação
 
 Siga os passos abaixo para rodar o projeto localmente:
