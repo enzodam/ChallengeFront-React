@@ -59,7 +59,7 @@ git clone (https://github.com/enzodam/ChallengeFront-React)
 cd ChallengeFront-React
 
 -Instale as dependências:
--npm install
+npm install
 
 -Inicie o servidor local:
 npm run dev
