@@ -21,7 +21,10 @@ Projeto desenvolvido para facilitar a assistência mecânica para motoristas. O 
 5.Contribuidores
 
 
-6.Licença
+6.Link do video demonstrativo.
+
+
+7.Licença
 
 
 1.Descrição do Projeto
@@ -49,6 +52,7 @@ Siga os passos abaixo para rodar o projeto localmente:
 
 Node.js e npm instalados.
 React e Tailwind CSS.
+
 3.2.Passos
 
 -Clone o repositório:
@@ -78,6 +82,10 @@ Chatbot com IA: para suporte ao atendimento online.
 
 -Enzo Prado Soddano (https://github.com/DerBrasilianer) - RM: 557937
 
-6.Licença
+6.Link do video no youtube
+
+https://www.youtube.com/watch?v=8_scNzU_TsI
+
+7.Licença
 
 Este projeto está licenciado sob a MIT License.
