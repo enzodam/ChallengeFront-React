@@ -28,7 +28,7 @@ const Login: React.FC = () => {
   };
 
   const handleBack = () => {
-    navigate('/home');
+    navigate('/');
   };
 
   return (
