@@ -43,7 +43,7 @@ const Cadastro: React.FC = () => {
   };
 
   const handleVoltar = () => {
-    navigate('/login');
+    navigate('/');
   };
 
   return (
