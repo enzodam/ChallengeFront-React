@@ -15,7 +15,7 @@ const App: React.FC = () => {
     <Router>
       <main className="min-h-screen flex flex-col">
         <Routes>
-          <Route path="/home" element={<Home />} />
+          <Route path="/" element={<Home />} />
           <Route path="/cadastro" element={<Cadastro />} />
           <Route path="/login" element={<Login />} />
           <Route path="/menu" element={<Menu />} />
