@@ -41,9 +41,11 @@ Tailwind CSS: para estilização e responsividade.
 Google Maps API: para localização de mecânicos e guinchos.
 Chatbot com IA: para suporte ao atendimento online.
 
-5.Contribuidores
+5.Contribuidores:
 -Enzo Dias Alfaia Mendes (https://github.com/enzodam) - RM: 558438
+
 -Vinicius Prates Altafini (https://github.com/vinicius945) - RM: 559183
+
 -Enzo Prado Soddano (https://github.com/DerBrasilianer) - RM: 557937
 
 6.Licença
