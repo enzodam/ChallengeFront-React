@@ -19,12 +19,12 @@ const Integrantes: React.FC = () => {
                 <header className="w-full bg-indigo-950 text-gray-200 py-4 text-center mb-8">
                     <h1 className="text-3xl">TURMA - 1TDSR</h1>
                     <p className="text-lg mt-2">
-                        <a href="https://github.com/enzodam/ChallengeFront-React" target="_blank" rel="noopener noreferrer" className="text-yellow-400 hover:underline">
+                        Repositório:<a href="https://github.com/enzodam/ChallengeFront-React" target="_blank" rel="noopener noreferrer" className="text-yellow-400 hover:underline">
                             https://github.com/enzodam/ChallengeFront-React
                         </a>
                     </p>
                     <p className="text-lg mt-2">
-                        <a href="https://www.youtube.com/watch?v=8_scNzU_TsI" target="_blank" rel="noopener noreferrer" className="text-yellow-400 hover:underline">
+                        Video:<a href="https://www.youtube.com/watch?v=8_scNzU_TsI" target="_blank" rel="noopener noreferrer" className="text-yellow-400 hover:underline">
                             https://www.youtube.com/watch?v=8_scNzU_TsI
                         </a>
                     </p>
