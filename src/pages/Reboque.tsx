@@ -22,7 +22,7 @@ const Reboque: React.FC = () => {
                         <article key={item} className="bg-white text-black p-4 rounded-lg shadow-md">
                             <div className="flex flex-col">
                                 <p className="text-xl font-bold">Guincho {item}</p>
-                                <p>Distância: 2 km</p>
+                                <p>Distância: 3.2 km</p>
                                 <p>11-90000-0000</p>
                                 <p className="text-green-500">Previsão de chegada: 15 minutos</p>
                             </div>
